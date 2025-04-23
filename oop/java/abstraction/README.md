@@ -12,7 +12,7 @@
 - **Reduces complexity**: Hides unnecessary implementation details.
 - **Increases code reusability**: Encourages the reuse of abstracted logic.
 - **Enhances security**: Protects internal object details from unintended modifications.
-- **Improves maintainability**: Makes code easier to manage and update.
+- **Improves maintainability**: Makes code easier to manage and update
 
 
 Abstraction in Java is mainly achieved using:
