@@ -9,13 +9,6 @@
 6. The machine should track the inventory of ingredients and notify when they are running low.
 7. The machine should handle multiple user requests concurrently and ensure thread safety.
 
-## Implementations
-#### [Java Implementation](../solutions/java/src/coffeevendingmachine/) 
-#### [Python Implementation](../solutions/python/coffeevendingmachine/)
-#### [C++ Implementation](../solutions/cpp/coffeevendingmachine/)
-#### [C# Implementation](../solutions/csharp/coffeevendingmachine/)
-#### [Go Implementation](../solutions/golang/coffeevendingmachine/)
-
 ## Classes, Interfaces and Enumerations
 1. The **Coffee** class represents a coffee type with its name, price, and recipe (ingredients and their quantities).
 2. The **Ingredient** class represents an ingredient used in making coffee, with its name and quantity. It provides a synchronized method to update the quantity.
@@ -24,3 +17,11 @@
 5. The **CoffeeMachine** class initializes the coffee menu and ingredients in its constructor. It provides methods to display the menu, select a coffee, dispense coffee, and update ingredient quantities.
 6. The hasEnoughIngredients method checks if there are sufficient ingredients to make a selected coffee, while the updateIngredients method updates the ingredient quantities after dispensing a coffee.
 7. The **CoffeeVendingMachine** class is the entry point of the application and demonstrates the usage of the coffee vending machine. It creates an instance of the machine, displays the menu, and simulates concurrent user requests using an ExecutorService.
+
+
+## Implementations
+#### [Java Implementation](../solutions/java/src/coffeevendingmachine/) 
+#### [Python Implementation](../solutions/python/coffeevendingmachine/)
+#### [C++ Implementation](../solutions/cpp/coffeevendingmachine/)
+#### [C# Implementation](../solutions/csharp/coffeevendingmachine/)
+#### [Go Implementation](../solutions/golang/coffeevendingmachine/)
