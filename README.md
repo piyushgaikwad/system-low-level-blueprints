@@ -92,14 +92,3 @@ This repository contains resources to learn Low Level Design (LLD) / Object Orie
 
 - [Coursera - Design Patterns](https://www.coursera.org/learn/design-patterns)
 - [Github - Awesome Design Patterns](https://github.com/DovAmir/awesome-design-patterns)
-
-## 🤝 Contributing
-
-Contributions are welcome! If you'd like to add a new problem, improve existing content, or fix errors:
-1. Fork the repository
-2. Create a feature branch: `git checkout -b feature/your-feature-name`
-3. Commit your changes: `git commit -m 'Add some feature'`
-4. Push to the branch: `git push origin feature/your-feature-name`
-5. Submit a pull request
-
-Please make sure to update Readme files and documentation as appropriate.
