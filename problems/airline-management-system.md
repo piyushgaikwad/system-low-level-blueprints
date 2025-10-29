@@ -10,12 +10,6 @@
 7. The system should ensure data consistency and handle concurrent access to shared resources.
 8. The system should be scalable and extensible to accommodate future enhancements and new features.
 
-## Implementations
-#### [Java Implementation](../solutions/java/src/airlinemanagementsystem/) 
-#### [Python Implementation](../solutions/python/airlinemanagementsystem/)
-#### [C++ Implementation](../solutions/cpp/airlinemanagementsystem/)
-#### [C# Implementation](../solutions/csharp/airlinemanagementsystem/)
-#### [Go Implementation](../solutions/golang/airlinemanagementsystem/)
 
 ## Classes, Interfaces and Enumerations
 1. The **Flight** class represents a flight in the airline management system, with properties such as flight number, source, destination, departure time, arrival time, and available seats.
@@ -28,3 +22,10 @@
 8. The **BookingManager** class manages the creation and cancellation of bookings. It follows the Singleton pattern to ensure a single instance of the booking manager.
 9. The **PaymentProcessor** class handles the processing of payments. It follows the Singleton pattern to ensure a single instance of the payment processor.
 10. The **AirlineManagementSystem** class serves as the main entry point of the system, combining all the components and providing methods for flight management, booking, payment processing, and other operations.
+
+## Implementations
+#### [Java Implementation](../solutions/java/src/airlinemanagementsystem/) 
+#### [Python Implementation](../solutions/python/airlinemanagementsystem/)
+#### [C++ Implementation](../solutions/cpp/airlinemanagementsystem/)
+#### [C# Implementation](../solutions/csharp/airlinemanagementsystem/)
+#### [Go Implementation](../solutions/golang/airlinemanagementsystem/)
