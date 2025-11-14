@@ -1,10 +1,3 @@
-<p align="center">
-  <img src="images/lld-repo-logo.png" width="350" height="200">
-</p>
-<p align="center">
-  <a href="https://blog.algomaster.io/">Join Free Newsletter</a>
-</p>
-
 This repository contains resources to learn Low Level Design (LLD) / Object Oriented Design (OOD) and prepare for interviews.
 
 ## 📌 Fundamental Concepts
@@ -110,9 +103,3 @@ Contributions are welcome! If you'd like to add a new problem, improve existing 
 5. Submit a pull request
 
 Please make sure to update Readme files and documentation as appropriate.
-
----
-
-<p align="center">
-  <i>If you find this resource helpful, please give it a star and share it with others!</i>
-</p>
