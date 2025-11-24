@@ -10,12 +10,6 @@
 7. The system should generate booking confirmations and send them to users via email or SMS.
 8. The system should provide a waiting list functionality for sold-out concerts.
 
-## Implementations
-#### [Java Implementation](../solutions/java/src/concertticketbookingsystem/) 
-#### [Python Implementation](../solutions/python/concertticketbookingsystem/)
-#### [C++ Implementation](../solutions/cpp/concertticketbookingsystem/)
-#### [C# Implementation](../solutions/csharp/concertticketbookingsystem/)
-#### [Go Implementation](../solutions/golang/concertticketbookingsystem/)
 
 ## Classes, Interfaces and Enumerations
 1. The **Concert** class represents a concert event, with properties such as ID, artist, venue, date and time, and a list of seats.
@@ -27,3 +21,10 @@
 7. The **User** class represents a user of the concert ticket booking system, with properties like ID, name, and email.
 8. The **ConcertTicketBookingSystem** class is the central component of the system. It follows the Singleton pattern to ensure a single instance of the system. It manages concerts, bookings, and provides methods to add concerts, search concerts, book tickets, and cancel bookings.
 9. The **SeatNotAvailableException** is a custom exception used to handle cases where a seat is not available for booking.
+
+## Implementations
+#### [Java Implementation](../solutions/java/src/concertticketbookingsystem/) 
+#### [Python Implementation](../solutions/python/concertticketbookingsystem/)
+#### [C++ Implementation](../solutions/cpp/concertticketbookingsystem/)
+#### [C# Implementation](../solutions/csharp/concertticketbookingsystem/)
+#### [Go Implementation](../solutions/golang/concertticketbookingsystem/)
